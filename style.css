@@ -1,0 +1,143 @@
+/* Cross Browser Compatability CSS */
+/**
+ * html5doctor.com Reset Stylesheet (Eric Meyer's Reset Reloaded + HTML5 baseline)
+ * v1.6.1 2010-09-17 | Authors: Eric Meyer & Richard Clark
+ * html5doctor.com/html-5-reset-stylesheet/
+ */
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+blockquote, q { quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after { content: ""; content: none; }
+
+ins { background-color: #ff9; color: #000; text-decoration: none; }
+
+mark { background-color: #ff9; color: #000; font-style: italic; font-weight: bold; }
+
+del { text-decoration: line-through; }
+
+abbr[title], dfn[title] { border-bottom: 1px dotted; cursor: help; }
+
+table { border-collapse: collapse; border-spacing: 0; }
+
+hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
+
+input, select { vertical-align: middle; }
+
+
+/* Write your CSS styles here */
+
+.header {
+	height: 130px;
+	background: #F1E875;
+	position: fixed;
+	width: 100%;
+	z-index: 2;
+}
+
+#headerlogo {
+  float: left;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#headernav {
+	padding-top: 30px;
+	background: #F1E875;
+}
+
+#headernav li {
+	display: inline-block;
+  	margin-left:15px;
+  	margin-right:15px;
+  	font-family: Source Sans Pro;
+ 	font-size: 25px;
+ 	font-weight: lighter;
+	color: #6F2E34;
+}
+
+#headernav a:link, a:visited {
+  margin:0.50em 0.50em 0.50em;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-bottom: 20px;
+  text-decoration: none;
+}
+
+#headernav a:hover {
+  color: #E79687;
+}
+
+.about {
+	padding-top: 150px;
+}
+
+#aboutpic img {
+	width: 30%;
+   float: left;
+	padding-left: 60px;
+	padding-right: 70px;
+	padding-bottom: 50px;
+	padding-top: 40px;
+}
+
+#aboutpic h1{
+  	font-family: Source Sans Pro;
+ 	font-size: 38px;
+ 	font-weight: lighter;
+	color: #6F2E34;
+	padding-top: 20px;
+   padding-left: 60px;
+	padding-right: 60px;
+}
+
+#abouttext p{
+  	font-family: Source Sans Pro;
+ 	font-size: 16px;
+ 	font-weight: lighter;
+	color: #6F2E34;
+	padding-top: 20px;
+   padding-left: 40px;
+	padding-right: 40px;
+}
+
+#segue {
+	width: 100%;
+  	font-family: Source Sans Pro;
+ 	font-size: 38px;
+ 	font-weight: lighter;
+	color: #6F2E34;
+   padding-left: 60px;
+	padding-right: 40px;
+	padding-bottom:20px;
+}
+
+.work {
+	width: 100%;
+	background: #F1E875;
+	float: left;
+	font-size: 60px;
+}
