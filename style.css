@@ -101,7 +101,15 @@ input, select { vertical-align: middle; }
 	padding-left: 60px;
 	padding-right: 70px;
 	padding-bottom: 50px;
-	padding-top: 40px;
+	padding-top: 20px;
+}
+
+.curve { 
+	width: 25%;
+	float: left;
+	margin-right:2rem; 
+	-webkit-shape-outside:circle();
+	shape-outside:circle();
 }
 
 #aboutpic h1{
@@ -120,7 +128,7 @@ input, select { vertical-align: middle; }
  	font-weight: lighter;
 	color: #6F2E34;
 	padding-top: 20px;
-   padding-left: 40px;
+   padding-left: 60px;
 	padding-right: 40px;
 }
 
@@ -136,6 +144,12 @@ input, select { vertical-align: middle; }
 }
 
 .work {
+  	font-family: Source Sans Pro;
+ 	font-weight: lighter;
+	color: #6F2E34;
+   padding-left: 60px;
+	padding-right: 40px;
+	padding-bottom:20px;
 	width: 100%;
 	background: #F1E875;
 	float: left;
