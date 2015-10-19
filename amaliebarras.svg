@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="459px" height="108px" viewBox="0 0 459 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop" sketch:type="MSArtboardGroup">
+            <path d="M132.263976,53.7650365 C132.263976,26.9478987 110.889484,5.20831323 84.5227116,5.20831323 C58.1559396,5.20831323 36.7814476,26.9478987 36.7814476,53.7650365 C36.7814476,80.5821742 58.1559396,102.32176 84.5227116,102.32176 C110.889484,102.32176 132.263976,80.5821742 132.263976,53.7650365 Z" id="Oval-1" opacity="0.3" fill-opacity="0.5" fill="#D0ECEA" sketch:type="MSShapeGroup"></path>
+            <path d="M193.119422,53.9750233 C193.119422,27.1578856 171.74493,5.41830009 145.378158,5.41830009 C119.011386,5.41830009 97.6368944,27.1578856 97.6368944,53.9750233 C97.6368944,80.7921611 119.011386,102.531747 145.378158,102.531747 C171.74493,102.531747 193.119422,80.7921611 193.119422,53.9750233 Z" id="Oval-1-Copy" opacity="0.3" fill-opacity="0.5" fill="#E79687" sketch:type="MSShapeGroup"></path>
+            <text id="amalie-barras" sketch:type="MSTextLayer" font-family="Rockwell" font-size="60" font-weight="normal" line-spacing="120" letter-spacing="0.100000001" fill="#6F2E34">
+                <tspan x="33" y="55">amalie barras</tspan>
+            </text>
+            <text id="data-+-design" sketch:type="MSTextLayer" font-family="Source Sans Pro" font-size="35" font-weight="260" sketch:alignment="middle" fill="#6F2E34">
+                <tspan x="35.5657238" y="86.9750233">data + design</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
